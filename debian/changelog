@@ -1,0 +1,5 @@
+libgit2 (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- root <root@squeezo>  Fri, 22 Jun 2012 17:06:28 +0000
