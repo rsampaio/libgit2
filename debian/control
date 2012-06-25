@@ -11,7 +11,7 @@ Homepage: http://libgit2.github.com
 Package: libgit2-dev
 Section: libdevel
 Architecture: any
-Depends: libgit2BROKEN (= ${binary:Version})
+Depends: libgit2 (= ${binary:Version})
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
